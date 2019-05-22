@@ -5,20 +5,20 @@ author: "Charles Baudelaire"
 date: 2019-05-22
 ---
 
-## L’invitation au voyage
+### L’invitation au voyage
 
-⋅⋅⋅Mon enfant, ma soeur,⋅⋅
-⋅⋅⋅Songe à la douceur⋅⋅
-⋅⋅⋅D’aller là-bas vivre ensemble!⋅⋅
-Aimer à loisir,
-Aimer et mourir
-Au pays qui te ressemble!
-Les soleils mouillés
-De ces ciels brouillés
-Pour mon esprit ont les charmes
-Si mystérieux
-De tes traîtres yeux,
-Brillant à travers leurs larmes.
+Mon enfant, ma soeur,  
+Songe à la douceur  
+D’aller là-bas vivre ensemble!  
+Aimer à loisir,  
+Aimer et mourir  
+Au pays qui te ressemble!  
+Les soleils mouillés  
+De ces ciels brouillés  
+Pour mon esprit ont les charmes  
+Si mystérieux  
+De tes traîtres yeux,  
+Brillant à travers leurs larmes.  
 
 Là, tout n’est qu’ordre et beauté,
 Luxe, calme et volupté.
