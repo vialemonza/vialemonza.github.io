@@ -5,7 +5,7 @@ author: "Charles Baudelaire"
 date: 2019-05-22
 ---
 
-### L’invitation au voyage
+## L’invitation au voyage
 
 Mon enfant, ma soeur,  
 Songe à la douceur  
@@ -20,35 +20,35 @@ Si mystérieux
 De tes traîtres yeux,  
 Brillant à travers leurs larmes.  
 
-Là, tout n’est qu’ordre et beauté,
-Luxe, calme et volupté.
-Des meubles luisants,
-Polis par les ans,
-Décoreraient notre chambre;
-Les plus rares fleurs
-Mêlant leurs odeurs
-Aux vagues senteurs de l’ambre,
-Les riches plafonds,
-Les miroirs profonds,
-La splendeur orientale,
-Tout y parlerait
-À l’âme en secret
-Sa douce langue natale.
+Là, tout n’est qu’ordre et beauté,  
+Luxe, calme et volupté.  
+Des meubles luisants,  
+Polis par les ans,  
+Décoreraient notre chambre;  
+Les plus rares fleurs  
+Mêlant leurs odeurs  
+Aux vagues senteurs de l’ambre,  
+Les riches plafonds,  
+Les miroirs profonds,  
+La splendeur orientale,  
+Tout y parlerait  
+À l’âme en secret  
+Sa douce langue natale.  
 
-Là, tout n’est qu’ordre et beauté,
-Luxe, calme et volupté.
-Vois sur ces canaux
-Dormir ces vaisseaux
-Dont l’humeur est vagabonde;
-C’est pour assouvir
-Ton moindre désir
-Qu’ils viennent du bout du monde.
-— Les soleils couchants
-Revêtent les champs,
-Les canaux, la ville entière,
-D’hyacinthe et d’or;
-Le monde s’endort
-Dans une chaude lumière.
+Là, tout n’est qu’ordre et beauté,  
+Luxe, calme et volupté.  
+Vois sur ces canaux  
+Dormir ces vaisseaux  
+Dont l’humeur est vagabonde;  
+C’est pour assouvir  
+Ton moindre désir  
+Qu’ils viennent du bout du monde.  
+— Les soleils couchants  
+Revêtent les champs,  
+Les canaux, la ville entière,  
+D’hyacinthe et d’or;  
+Le monde s’endort  
+Dans une chaude lumière.  
 
-Là, tout n’est qu’ordre et beauté,
-Luxe, calme et volupté.
+Là, tout n’est qu’ordre et beauté,  
+Luxe, calme et volupté.  
