@@ -2,20 +2,23 @@
 layout: default
 ---
 <h3>
-        <font size="8" color="white">
-    {{ page.title }}</font> </h3>
-<p class="meta">
-        <h3>
-            <font size="8" color="white">
-    {{ page.date | date_to_string }}
-</font> 
+	<font size="8" color="white">
+		{{ page.title }}
+	</font>
 </h3>
+
+<p class="meta">
+	<h3>
+		<font size="8" color="white">
+			{{ page.date | date_to_string }}
+		</font> 
+	</h3>
 </p>
 
-<div class="post" >
-    <h3>
-      <font size="6" color="white">
-  {{ content }}
-     </font> 
-   </h3>
+<div class="post">
+	<h3>
+		<font size="8" color="white">
+			{{ content }}
+		</font> 
+	</h3>
 </div>
