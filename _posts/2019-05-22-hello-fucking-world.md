@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "vialemonza - Hello Fucking World"
+author: "MCirrosi"
 date: 2019-05-22
 ---
 
