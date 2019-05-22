@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "vialemonza - Hello Fucking World"
-author: "MCirrosi"
+title: "Hello World"
+author: "Charles Baudelaire"
 date: 2019-05-22
 ---
 
-L’invitation au voyage (Charles Baudelaire)
+## L’invitation au voyage
 
-Mon enfant, ma soeur,
-Songe à la douceur
-D’aller là-bas vivre ensemble!
+⋅⋅⋅Mon enfant, ma soeur,⋅⋅
+⋅⋅⋅Songe à la douceur⋅⋅
+⋅⋅⋅D’aller là-bas vivre ensemble!⋅⋅
 Aimer à loisir,
 Aimer et mourir
 Au pays qui te ressemble!
