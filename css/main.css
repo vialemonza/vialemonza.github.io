@@ -15,8 +15,22 @@ footer{
 	background: black;
 	padding: 10px;
 }
+.container {
+  overflow: hidden;
+}
+.right {
+  float: right;
+  width: 100px;
+}
+.left {
+  float: left;
+  width: 100px;
+}
+.middle {
+  margin: 0 100px;
+}
 .centerDiv {
-  text-align: center;
+  text-align: left;
   width:80%;
   margin:0 auto;
   background:black;
