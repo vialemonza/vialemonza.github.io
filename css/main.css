@@ -15,6 +15,12 @@ footer{
 	background: black;
 	padding: 10px;
 }
+.centerDiv {
+  text-align: center;
+  width:80%;
+  margin:0 auto;
+  background:black;
+}
 img {
 	display: block;
 	margin-left: auto;
