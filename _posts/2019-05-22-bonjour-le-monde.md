@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Bonjour le Monde"
 author: "Charles Baudelaire"
 date: 2019-05-22
 ---
