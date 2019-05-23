@@ -28,17 +28,17 @@ blockquote { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-s
 pre { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
 /* A link that has not been visited */
 a:link {
-	color: darkgreen;
+	color: white;
 }
 /* A link that has been visited */
 a:visited {
-	color: darkgreen;
+	color: white;
 }
 /* A link that is hovered on */
 a:hover {
-	color: darkgreen;
+	color: white;
 }
 /* A link that is selected */
 a:active {
-	color: darkgreen;
+	color: white;
 }
